@@ -6,5 +6,7 @@ Phishy is a machine-learning-powered chrome extension that detects and flags phi
 You can run the chrome extension by hosting the API locally.
 
 More about Phishy:
+
 [https://phishy.tech]([url](https://phishy.tech))
+
 [https://devpost.com/software/phishy]([url](https://devpost.com/software/phishy)https://devpost.com/software/phishy)
