@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Phishy",
+    "description": "Phishing Detector for Gmail",
+    "version": "1.0",
+    "permissions": ["activeTab", "storage", "tabs", "scripting"],
+    "host_permissions": ["https://mail.google.com/mail/*"],
+    "action": {
+        "default_title": "Phishy",
+        "default_popup": "popup.html",
+        "default_icon": "phishy.png"
+    },
+    "commands": {
+        "_execute_action": {
+            "suggested_key": {
+                "default": "Ctrl+B",
+                "mac": "Command+B"
+            }
+        }
+    }
+}
